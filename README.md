@@ -23,7 +23,13 @@
   </summary>
 
   <br />
-
+<div align="center">
+  <samp>
+    <b>Code runs slower than natural selection, but gets there eventually.</b>
+    <br />
+    Profile in Progress...
+  </samp><br><br>
+</div>
   <div align="center">
     <img
       height="125"
