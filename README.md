@@ -27,7 +27,7 @@
   <samp>
     <b>Code runs slower than natural selection, but gets there eventually.</b>
     <br />
-    Profile in Progress...
+    (that means that my profile in progress)
   </samp><br><br>
 </div>
   <div align="center">
